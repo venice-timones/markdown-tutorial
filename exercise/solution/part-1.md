@@ -7,9 +7,9 @@ The following are procedures for logging in to the COARE HPC via the following O
 - [For Windows](#for-windows)
   - [PuTTY](#putty)
   - [Command Prompt (for Windows 10 only)](#command-prompt-for-windows-10-only)
-- [For Mac / Linux](#for-mac-linux)
+- [For Mac / Linux](#for-mac--linux)
 
-## Fow Windows
+## For Windows
 
 ### PuTTY
 
