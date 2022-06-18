@@ -27,7 +27,7 @@ Recreate the following:
 
 My favorite equation is:
 
-$$ \frac{}{} $$
+$$ \frac{-b \pm \sqrt{b^2 -4ac}}{2a} $$
 
 ## Part 3
 
