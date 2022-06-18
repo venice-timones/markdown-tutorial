@@ -5,7 +5,7 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 # Table of Content
 
 - [What is a markdown file?](#what-is-a-markdown-file)
-- [Prerequisite?](#prerequisite)
+- [Prerequisite](#prerequisite)
 - [Italic](#italic)
 - [Bold](#bold)
 - [Headers](#headers)
