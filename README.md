@@ -21,6 +21,9 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 - [Superscript](#superscript)
 - [Code (inline)](#code-inline)
 - [Code (block)](#code-block)
+- [Math Equation](#math-equation)
+- [Tables](#tables)
+- [Tips](#tips)
 
 ## What is a markdown file?
 
@@ -30,6 +33,12 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 - It’s quickly becoming the writing standard for academics, scientists, writers, and many more.
 - Markdown focuses on the content rather than the style. It doesn’t do anything fancy like change the font size, color, or type. All we have control over is the structure of the text - creating headers, organizing lists, giving emphasis etc.
 - Source: [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+- Personal reasons why I prefer markdown files:
+  - It is lightweight.
+  - No annoying page breaks.
+  - Has cleaner look.
+  - Makes the structure more obvious.
+  - No worries in spacing.
 
 ## Italic
 
@@ -71,6 +80,8 @@ _italic_
 ```
 [text](#section-heading)
 ```
+
+Note: Remove special characters
 
 ## Images
 
@@ -160,3 +171,30 @@ Note: Each \* represents a space in keyboard
 Block code
 ```
 ````
+
+## Math equation
+
+```
+<img src="https://latex.codecogs.com/svg...">
+
+<img style="background:white;padding:5px" src="https://latex.codecogs.com/svg...">
+```
+
+Use: [https://www.codecogs.com/latex](https://www.codecogs.com/latex/eqneditor.php)
+
+## Tables
+
+```
+| Heading1 | Heading2 | Heading2 |
+| -------- | -------- | -------- |
+| Data     | Data     | Data     |
+| Data     | Data     | Data     |
+| Data     | Data     | Data     |
+```
+
+## Tips
+
+1. Do not use spaces in folder names. Also, use only small caps.
+2. Example of tutorials made using markdown files:
+
+- [JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)
