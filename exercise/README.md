@@ -15,19 +15,7 @@ Additional notes:
 
 Recreate the following:
 
-> This is a paragraph.
-> First line.  
-> Next line.  
-> Third line.  
-> There should be no extra spacing between each line.  
-> _**This line is both italic and bold!**_
->
-> There is a blank space above.  
-> This <sub>line</sub> of <sup>text</sup> is <sub>wavy.</sub>
-
-My favorite equation is:
-
-$$ \frac{-b \pm \sqrt{b^2 -4ac}}{2a} $$
+![Part 2 Exercixe](../images/part-2-inst.png)
 
 ## Part 3
 
@@ -39,3 +27,9 @@ Link by reference your solutions for each task. Also, place your names below the
 - [Indenting code blocks](https://www.jetbrains.com/help/hub/Markdown-Syntax.html#indented-code-blocks)
 - [Escaping special characters](https://www.jetbrains.com/help/hub/Markdown-Syntax.html#backslash-escapes)
 - [Mail to links](https://www.w3schools.io/file/markdown-links/#mailto-links-in-markdown)
+
+## Finish Products (screenhots)
+
+- [Part 1](../images/part-1.png)
+- [Part 2](../images/part-2.png)
+- [Part 3](../images/part-3.png)
