@@ -30,6 +30,6 @@ Link by reference your solutions for each task. Also, place your names below the
 
 ## Finish Products (screenhots)
 
-- [Part 1](../images/part-1.png)
-- [Part 2](../images/part-2.png)
-- [Part 3](../images/part-3.png)
+- [Part 1](https://raw.githubusercontent.com/ijborda/markdown-tutorial/main/images/part-1.png)
+- [Part 2](https://raw.githubusercontent.com/ijborda/markdown-tutorial/main/images/part-2.png)
+- [Part 3](https://raw.githubusercontent.com/ijborda/markdown-tutorial/main/images/part-3.png)
