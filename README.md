@@ -2,7 +2,7 @@
 
 This is a tutorial on how to make markdown files. No prior knowledge in programming is required.
 
-# Table of Content
+# Table of Contents
 
 - [What is a markdown file?](#what-is-a-markdown-file)
 - [Prerequisite](#prerequisite)
