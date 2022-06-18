@@ -10,4 +10,4 @@
 
 My favorite equation is:
 
-<img style="background:white;padding:5px" src="https://latex.codecogs.com/svg.image?\frac{-b&space;\pm&space;\sqrt{b^2&space;-4ac&space;&plus;&space;2a}}{2a}">
+$$ \frac{-b \pm \sqrt{b^2 -4ac}}{2a} $$

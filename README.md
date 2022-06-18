@@ -175,12 +175,10 @@ Block code
 ## Math equation
 
 ```
-<img src="https://latex.codecogs.com/svg...">
-
-<img style="background:white;padding:5px" src="https://latex.codecogs.com/svg...">
+$$ equation $$
 ```
 
-Use: [https://www.codecogs.com/latex](https://www.codecogs.com/latex/eqneditor.php)
+Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
 
 ## Tables
 
