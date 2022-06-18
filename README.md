@@ -315,3 +315,4 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 2. Example of tutorials made using markdown files:
 
 - [JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)
+- [The JS way](https://github.com/thejsway/thejsway)
