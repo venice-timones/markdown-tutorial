@@ -20,20 +20,20 @@ The following are procedures for logging in to the COARE HPC via the following O
 
 2. Set port number to **22** and the **Host Name** to **saliksik.asti.dost.gov.ph**.
 
-   ![Coare Putty Configuration](../images/coare-putty-configuration.png)
+   ![Coare Putty Configuration](images/coare-putty-configuration.png)
 
 3. On the left panel under Category, collapse the **Connection** option and select the **SSH** option, and then click **Auth**. Select **Browse** to attach your **private key** (.ppk file) for authentication. Then click **Open**.
 
-   ![Coare Putty Authentication](../images/coare-putty-auth.png)
+   ![Coare Putty Authentication](images/coare-putty-auth.png)
 
 4. Select **Yes** when prompted by a PuTTY Security Alert Window.
 
-   ![Coare Putty Alert](../images/coare-putty-alert.png)
+   ![Coare Putty Alert](images/coare-putty-alert.png)
 
 5. When the terminal opens, enter your COARE credentials that should have been sent to your email.
 6. You are now inside the HPC frontend if you see this (see image below) on your terminal.
 
-   ![Coare Putty Welcome](../images/coare-putty-welcome.png)
+   ![Coare Putty Welcome](images/coare-putty-welcome.png)
 
    NOTES:
 
@@ -59,10 +59,10 @@ The following are procedures for logging in to the COARE HPC via the following O
    | -vv, -vvv          | Enable additional verbosity for even more debugging messages |
 
 3. Type **Yes** to add the host in your known hosts.
-   ![Coare Command Prompt Alert](../images/coare-cp-alert.png)
+   ![Coare Command Prompt Alert](images/coare-cp-alert.png)
 
 4. You should now be inside the HPC frontend.
-   ![Coare Command Prompt Welcome](../images/coare-cp-welcome.png)
+   ![Coare Command Prompt Welcome](images/coare-cp-welcome.png)
 
    NOTES:
 
@@ -87,9 +87,9 @@ The following are procedures for logging in to the COARE HPC via the following O
     | -vv, -vvv          | Enable additional verbosity for even more debugging messages |
 
 2.  Type **Yes** to add the host in your known hosts.
-    ![Coare Terminal Alert](../images/coare-terminal-alert.png)
+    ![Coare Terminal Alert](images/coare-terminal-alert.png)
 
 3.  You are now inside the HPC Frontend.
-    ![Coare Terminal Welcome](../images/coare-terminal-welcome.png)
+    ![Coare Terminal Welcome](images/coare-terminal-welcome.png)
 
     NOTE: Logging in must be passwordless unless you have a passphrase during the generating of keys.
