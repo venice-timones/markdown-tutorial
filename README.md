@@ -160,7 +160,7 @@ Note: .gif also works
 
 <details>
 <summary><b>Example</b></summary>
-<img src="images/list-ordered.png" alt="List Ordered sample">
+<img src="images/list-unordered.png" alt="List Unordered sample">
 </details>
 
 ## Ordered List
@@ -176,7 +176,7 @@ Note: .gif also works
 
 <details>
 <summary><b>Example</b></summary>
-<img src="images/list-unordered.png" alt="List Unordered sample">
+<img src="images/list-ordered.png" alt="List Ordered sample">
 </details>
 
 ## Task List
@@ -215,7 +215,7 @@ Note: Each \* represents a space in keyboard
 
 <details>
 <summary><b>Example</b></summary>
-<img src="images/supercript.png" alt="Superscript sample">
+<img src="images/subscript.png" alt="Subscript sample">
 </details>
 
 ## Superscript
@@ -226,7 +226,7 @@ Note: Each \* represents a space in keyboard
 
 <details>
 <summary><b>Example</b></summary>
-<img src="images/subscript.png" alt="Subscript sample">
+<img src="images/superscipt.png" alt="Superscript sample">
 </details>
 
 ## Code (inline)
