@@ -210,9 +210,9 @@ Note: .gif also works
 ## Paragraph (soft break)
 
 ```
-Do I contradict myself?**
-Very well then I contradict myself,**
-(I am large, I contain multitudes.)\*\*
+Do I contradict myself?
+Very well then I contradict myself
+(I am large, I contain multitudes.)
 ```
 
 Note: Each \* represents a space in keyboard
