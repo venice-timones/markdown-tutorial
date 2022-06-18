@@ -4,10 +4,32 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 
 # Table of Content
 
+- [What is a markdown file?](#what-is-a-markdown-file)
+- [Italic](#italic)
+- [Bold](#bold)
+- [Headers](#headers)
+- [Links](#links)
+- [Links (Relative)](#links-relative)
+- [Links (Section)](#links-section)
+- [Images](#images)
+- [Blockquotes](#blockquotes)
+- [Unordered List](#unordered-list)
+- [Ordered List](#ordered-list)
+- [Task List](#task-list)
+- [Paragraph (soft break)](#paragraph-soft-break)
+- [Subscript](#subscript)
+- [Superscript](#superscript)
+- [Code (inline)](#code-inline)
+- [Code (block)](#code-block)
+
 ## What is a markdown file?
 
-- It has an extension of .md.
-- It
+- It has an extension of `.md`.
+- A way to write content for the web.
+- Has wide range of compatibility. Unlike cumbersome word processing applications, text written in Markdown can be easily shared between computers, mobile phones, and people.
+- It’s quickly becoming the writing standard for academics, scientists, writers, and many more.
+- Markdown focuses on the content rather than the style. It doesn’t do anything fancy like change the font size, color, or type. All we have control over is the structure of the text - creating headers, organizing lists, giving emphasis etc.
+- Source: [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
 
 ## Italic
 
