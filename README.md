@@ -53,8 +53,8 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
       ![Search for Format on Save](images/settings-format-on-save.png)
       ![Enable Format on Save](images/settings-format-on-save-check.png)
    3. Be sure that prettier is enabled. Restart of VS code may be needed.
+      ![Prettier Installed](images/prettier-enabled.png)
 3. (Optional) Create a [github](https://github.com/) account.
-   ![Prettier Installed](images/prettier-enabled.png)
 
 ## Italic
 
