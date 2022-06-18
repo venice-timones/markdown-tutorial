@@ -21,7 +21,8 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 - [Superscript](#superscript)
 - [Code (inline)](#code-inline)
 - [Code (block)](#code-block)
-- [Math Equation](#math-equation)
+- [Math Equation (inline)](#math-equation-inline)
+- [Math Equation (block)](#math-equation-block)
 - [Tables](#tables)
 - [Tips](#tips)
 
@@ -46,11 +47,21 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 _italic_
 ```
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/italic.png" alt="Italic sample">
+</details>
+
 ## Bold
 
 ```
 **bold**
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/bold.png" alt="Bold sample">
+</details>
 
 ## Headers
 
@@ -63,17 +74,32 @@ _italic_
 ###### Header 6
 ```
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/headings.png" alt="Headings sample">
+</details>
+
 ## Links
 
 ```
 [text](url)
 ```
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/link.png" alt="Link sample">
+</details>
+
 ## Links (Relative)
 
 ```
 [text](directory)
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/link-reference.png" alt="Link Relative sample">
+</details>
 
 ## Links (Section)
 
@@ -83,11 +109,21 @@ _italic_
 
 Note: Remove special characters
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/link-section.png" alt="Link Section sample">
+</details>
+
 ## Images
 
 ```
 ![Alt-text](img-path-or-url)
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/link-img.png" alt="Link Image sample">
+</details>
 
 Note: .gif also works
 
@@ -96,6 +132,11 @@ Note: .gif also works
 ```
 > your-quote
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/quote.png" alt="Blockquote sample">
+</details>
 
 ## Unordered List
 
@@ -117,6 +158,11 @@ Note: .gif also works
 - Level 1
 ```
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/list-ordered.png" alt="List Ordered sample">
+</details>
+
 ## Ordered List
 
 ```
@@ -128,6 +174,11 @@ Note: .gif also works
 1. Level 4
 ```
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/list-unordered.png" alt="List Unordered sample">
+</details>
+
 ## Task List
 
 ```
@@ -135,6 +186,11 @@ Note: .gif also works
 - [ ] List-2
 - [ ] List-3
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/task-list.png" alt="Task List sample">
+</details>
 
 ## Paragraph (soft break)
 
@@ -146,11 +202,21 @@ Very well then I contradict myself,**
 
 Note: Each \* represents a space in keyboard
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/paragraph.png" alt="Paragraph Soft Break sample">
+</details>
+
 ## Subscript
 
 ```
 <sub>subscript</sub>
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/supercript.png" alt="Superscript sample">
+</details>
 
 ## Superscript
 
@@ -158,11 +224,21 @@ Note: Each \* represents a space in keyboard
 <sup>subscript</sup>
 ```
 
+<details>
+<summary><b>Example</b></summary>
+<img src="images/subscript.png" alt="Subscript sample">
+</details>
+
 ## Code (inline)
 
 ```
 `inline-code`
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/code-inline.png" alt="Code Inline sample">
+</details>
 
 ## Code (block)
 
@@ -172,13 +248,36 @@ Block code
 ```
 ````
 
-## Math equation
+<details>
+<summary><b>Example</b></summary>
+<img src="images/code-block.png" alt="Code Block sample">
+</details>
+
+## Math equation (inline)
 
 ```
-$$ equation $$
+$ inline-equation $
 ```
 
 Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/equation-inline.png" alt="Equation Inline sample">
+</details>
+
+## Math equation (block)
+
+```
+$$ block-equation $$
+```
+
+Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/equation-block.png" alt="Equation Block sample">
+</details>
 
 ## Tables
 
@@ -189,6 +288,11 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 | Data     | Data     | Data     |
 | Data     | Data     | Data     |
 ```
+
+<details>
+<summary><b>Example</b></summary>
+<img src="images/table.png" alt="Table sample">
+</details>
 
 ## Tips
 
