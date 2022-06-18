@@ -41,6 +41,20 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
   - Makes the structure more obvious.
   - No worries in spacing.
 
+## Prerequisite
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/).
+2. Install and configure VS Code extension prettier.
+   1. Click the extension toolbar on the right. Search for `prettier` and install it.
+      ![Search for Prettier](images/prettier-search.png)
+   2. Click the settings toolbar on the right. Search for `Format on Save`. Check format on save.
+      ![Settings](images/settings.png)
+      ![Search for Format on Save](images/settings-format-on-save.png)
+      ![Enable Format on Save](images/settings-format-on-save-check.png)
+   3. Be sure that prettier is enabled. Restart of VS code may be needed.
+3. (Optional) Create a [github](https://github.com/) account.
+   ![Prettier Installed](images/prettier-enabled.png)
+
 ## Italic
 
 ```
