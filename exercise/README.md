@@ -61,6 +61,6 @@ Example:
 
 ```
 We completed the exercises: 3
-We completed the exercises: 4
+We feel good about our output: 4
 My math equations are not rendering properly.
 ```
