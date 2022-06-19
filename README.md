@@ -276,7 +276,7 @@ Block code
 $ inline-equation $
 ```
 
-Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
+Use: [Equation to Latex](https://www.tutorialspoint.com/latex_equation_editor.htm)
 
 <details>
 <summary><b>Example</b></summary>
@@ -289,7 +289,7 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 $$ block-equation $$
 ```
 
-Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
+Use: [Equation to Latex](https://www.tutorialspoint.com/latex_equation_editor.htm)
 
 <details>
 <summary><b>Example</b></summary>
@@ -314,15 +314,16 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 ## Tips
 
 1. Do not use spaces in folder names. Also, use only small caps.
-2. Example of tutorials made using markdown files:
+2. Consider [compressing](https://www.iloveimg.com/compress-image) your images.
+3. Example of tutorials made using markdown files:
 
    - [JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)
    - [The JS way](https://github.com/thejsway/thejsway)
    - [Nextstrain Docs](https://github.com/nextstrain/docs.nextstrain.org)
 
-3. Further reading:
+4. Further reading:
 
-   - [https://www.markdownguide.org/](https://www.markdownguide.org/)
+   - [Markdown Guide](https://www.markdownguide.org/)
 
 ## Exercises
 
