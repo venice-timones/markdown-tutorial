@@ -8,6 +8,6 @@
 > There is a blank space above.  
 > This <sub>line</sub> of <sup>text</sup> is <sub>wavy.</sub>
 
-My favorite equation is:
+My favorite equation is $ x = 1 $:
 
 $$ \frac{-b \pm \sqrt{b^2 -4ac}}{2a} $$
