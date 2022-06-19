@@ -27,6 +27,7 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 - [Tables](#tables)
 - [Tips](#tips)
 - [Exercises](exercise/README.md)
+- [Convert to website](#convert-to-website)
 
 ## What is a markdown file?
 
@@ -322,3 +323,10 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 3. Further reading:
 
 - [https://www.markdownguide.org/](https://www.markdownguide.org/)
+
+## Convert to website
+
+1. In Github, go to Settings > Pages. Enable github pages by choosing the branch main, which will be the basis in making the website.
+2. Choose a theme.
+3. Click save then wait for the build to finish.
+4. Make math equation work by adding [Mathjax Link](_includes/head-custom.html) in the head.
