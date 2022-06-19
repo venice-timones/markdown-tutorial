@@ -48,9 +48,9 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 2. Install and configure VS Code extension prettier.
-   1. Click the extension toolbar on the right. Search for `prettier` and install it.
+   1. Click the extension toolbar on the left. Search for `prettier` and install it.
       ![Search for Prettier](images/prettier-search.png)
-   2. Click the settings toolbar on the right. Search for `Format on Save`. Check format on save.
+   2. Click the settings toolbar on the left. Search for `Format on Save`. Check format on save.
       ![Settings](images/settings.png)
       ![Search for Format on Save](images/settings-format-on-save.png)
       ![Enable Format on Save](images/settings-format-on-save-check.png)
@@ -335,4 +335,4 @@ Do: [Exercises](exercise/README.md)
 1. In Github, go to Settings > Pages. Enable github pages by choosing the branch main, which will be the basis in making the website.
 2. Choose a theme.
 3. Click save then wait for the build to finish.
-4. Make math equation work by adding [Mathjax Link](_includes/head-custom.html) in the head.
+4. Make math equation work by adding [Mathjax Link](http://zjuwhw.github.io/2017/06/04/MathJax.html) in the head.
