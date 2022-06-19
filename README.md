@@ -26,7 +26,7 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 - [Math Equation (block)](#math-equation-block)
 - [Tables](#tables)
 - [Tips](#tips)
-- [Exercises](exercise/README.md)
+- [Exercises](#exercises)
 - [Convert to website](#convert-to-website)
 
 ## What is a markdown file?
@@ -323,6 +323,10 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 3. Further reading:
 
 - [https://www.markdownguide.org/](https://www.markdownguide.org/)
+
+## Exercises
+
+Do: [Exercises](exercise/README.md)
 
 ## Convert to website
 
