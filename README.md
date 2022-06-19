@@ -316,13 +316,13 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 1. Do not use spaces in folder names. Also, use only small caps.
 2. Example of tutorials made using markdown files:
 
-- [JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)
-- [The JS way](https://github.com/thejsway/thejsway)
-- [Nextstrain Docs](https://github.com/nextstrain/docs.nextstrain.org)
+   - [JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)
+   - [The JS way](https://github.com/thejsway/thejsway)
+   - [Nextstrain Docs](https://github.com/nextstrain/docs.nextstrain.org)
 
 3. Further reading:
 
-- [https://www.markdownguide.org/](https://www.markdownguide.org/)
+   - [https://www.markdownguide.org/](https://www.markdownguide.org/)
 
 ## Exercises
 
