@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-markdown: kramdown
+# markdown: kramdown
 
-kramdown:
-  input: GFM
-  hard_wrap: false
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
