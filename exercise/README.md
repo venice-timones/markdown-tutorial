@@ -39,3 +39,24 @@ Link by reference your solutions for each task. Also, place your names below the
 - [Part 1](solution/part-1.md)
 - [Part 2](solution/part-2.md)
 - [Part 3](solution/part-3.md)
+
+## How to submit
+
+1. Fork and clone this repo
+2. Create a new branch called answer
+3. Checkout answer branch
+4. Create a folder inside `exercise/` called `solution`. Put all your answers there.
+5. Push to your fork
+6. Issue a pull request
+7. Your pull request description should contain the following:
+   - (0 to 3) I/We completed the exercises
+   - (1 to 5) I/We feel good about our output
+   - Anything you want to say!
+
+Example:
+
+```
+We completed the exercises: 3
+We completed the exercises: 4
+My math equations are not rendering properly.
+```
