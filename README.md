@@ -26,6 +26,7 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
 - [Math Equation (block)](#math-equation-block)
 - [Tables](#tables)
 - [Tips](#tips)
+- [Exercises](exercise/README.md)
 
 ## What is a markdown file?
 
