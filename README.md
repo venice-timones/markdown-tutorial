@@ -316,3 +316,8 @@ Use: [https://www.tutorialspoint.com/latex_equation_editor](https://www.tutorial
 
 - [JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)
 - [The JS way](https://github.com/thejsway/thejsway)
+- [Nextstrain Docs](https://github.com/nextstrain/docs.nextstrain.org)
+
+3. Further reading:
+
+- [https://www.markdownguide.org/](https://www.markdownguide.org/)
