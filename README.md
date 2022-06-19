@@ -57,6 +57,7 @@ This is a tutorial on how to make markdown files. No prior knowledge in programm
    3. Be sure that prettier is enabled. Restart of VS code may be needed.
       ![Prettier Installed](images/prettier-enabled.png)
 3. Create a [github](https://github.com/) account.
+4. Download [github desktop](https://desktop.github.com/).
 
 ## Italic
 
