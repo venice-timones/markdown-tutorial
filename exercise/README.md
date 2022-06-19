@@ -33,3 +33,9 @@ Link by reference your solutions for each task. Also, place your names below the
 - [Part 1](https://raw.githubusercontent.com/ijborda/markdown-tutorial/main/images/part-1.png)
 - [Part 2](https://raw.githubusercontent.com/ijborda/markdown-tutorial/main/images/part-2.png)
 - [Part 3](https://raw.githubusercontent.com/ijborda/markdown-tutorial/main/images/part-3.png)
+
+## Solutions
+
+- [Part 1](solution/part-1.md)
+- [Part 2](solution/part-2.md)
+- [Part 3](solution/part-3.md)
