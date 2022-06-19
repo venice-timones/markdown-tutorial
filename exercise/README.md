@@ -45,7 +45,11 @@ Link by reference your solutions for each task. Also, place your names below the
 1. Fork and clone this repo
 2. Create a new branch called answer
 3. Checkout answer branch
-4. Create a folder inside `exercise/` called `solution`. Put all your answers there.
+4. Create a folder inside `exercise/` called `solution`. Put all your answers there. Use the following filenames:
+   - `part-1.md`: For the part 1
+   - `part-2.md`: For the part 2
+   - `part-3.md`: For the part 3
+   - `images`: Store your images here
 5. Push to your fork
 6. Issue a pull request
 7. Your pull request description should contain the following:
