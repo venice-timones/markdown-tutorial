@@ -138,6 +138,8 @@ Note: Remove special characters
 ![Alt-text](img-path-or-url)
 ```
 
+You may use and download [this image](images/oble.jpg).
+
 <details>
 <summary><b>Example</b></summary>
 <img src="images/link-img.png" alt="Link Image sample">
@@ -168,12 +170,12 @@ Note: .gif also works
 ```
 
 ```
-- Level 1
-  - Level 2
-    - Level 3
-      - SLevel4
-- Level 1
-- Level 1
+* Level 1
+  * Level 2
+    * Level 3
+      * SLevel4
+* Level 1
+* Level 1
 ```
 
 <details>
@@ -213,8 +215,8 @@ Note: .gif also works
 ## Paragraph (soft break)
 
 ```
-Do I contradict myself?
-Very well then I contradict myself
+Do I contradict myself?**
+Very well then I contradict myself**
 (I am large, I contain multitudes.)
 ```
 

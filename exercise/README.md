@@ -43,16 +43,15 @@ Link by reference your solutions for each task. Also, place your names below the
 ## How to submit
 
 1. Fork and clone this [repository](https://github.com/ijborda/markdown-tutorial).
-2. Create a new branch called answer.
-3. Checkout answer branch,
-4. Create a folder inside `exercise/` called `solution`. Put all your answers there. Use the following filenames:
+2. Clone your repository to your local machine using Github desktop. If asked, choose 'for your own use'.
+3. Create a folder inside `exercise/` called `solution`. Put all your answers there. Use the following filenames:
    - `part-1.md`: For the part 1
    - `part-2.md`: For the part 2
    - `part-3.md`: For the part 3
    - `images`: Store your images here
-5. Push to your fork.
-6. Issue a pull request.
-7. Your pull request description should contain the following:
+4. Commit and push to your fork.
+5. Issue a pull request to submit.
+6. Your pull request description should contain the following:
    - (0 to 3) I/We completed the exercises
    - (1 to 5) I/We feel good about our output
    - Anything you want to say!
