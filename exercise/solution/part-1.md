@@ -3,9 +3,10 @@ The following are procedures for logging in to the COARE HPC via the following O
 
 ## Table of Contents 
 * [For windows](#for-windows)
-  * [PuTTY](#PuTTY)
-  * Command Prompt (for Windows 10 only)
-* For Mac/Linux
+  * [PuTTY](#putty)
+  * [Command Prompt (for Windows 10 only)](#command-prompt-for-windows-10-only)
+* [For Mac/Linux](#for-maclinux)
+
 
 ## For windows
 
@@ -17,11 +18,11 @@ The following are procedures for logging in to the COARE HPC via the following O
 
 	![Set port number](../solution/images/putty_2.png)
 
-3. On the left panel under Category, collapse the **Connection** option and select the **SSH** option, and then click **Auth**. Select Browse to attach your **private key** (.ppk file) for authentication. Then click **Open**.
+3. On the left panel under Category, collapse the **Connection** option and select the **SSH** option, and then click **Auth**. Select **Browse** to attach your **private key** (.ppk file) for authentication. Then click **Open**.
 	
 	![Set port number](../solution/images/putty_3.png)
 
-4. Select Yes when prompted by a PuTTY Security Alert Window.
+4. Select **Yes** when prompted by a PuTTY Security Alert Window.
 	
 	![Set port number](../solution/images/putty_4.png)
 
@@ -31,13 +32,13 @@ The following are procedures for logging in to the COARE HPC via the following O
 	
 	![Set port number](../solution/images/putty_6.png)
 
-	NOTES:
+	**NOTES:**
 	- Accessing HPC must be passwordless unless you have a passphrase during the generating of keys.
-	- If you want to use your key (generated using PuTTY) in OpenSSH, check this tutorial on converting PuTTY (.ppk) key to SSH Key.
+	- If you want to use your key (generated using PuTTY) in OpenSSH, check this tutorial on [converting PuTTY (.ppk) key to SSH Key](https://www.simplified.guide/putty/convert-ppk-to-ssh-key).
 	- You cannot use your OpenSSH keys to PuTTY and vice versa. 
 
 ### Command Prompt (for Windows 10 only)
-1. Open Command Prompt or Windows PowerShell.
+1. Open **Command Prompt** or **Windows PowerShell.**
 2. Type command:
 	```
 	ssh <username>@saliksik.asti.dost.gov.ph
@@ -46,7 +47,7 @@ The following are procedures for logging in to the COARE HPC via the following O
 	| Flag              | Description                                                  |
 	| ----------------- | ------------------------------------------------------------ |
 	| -i <private-keys> | Indicate the private key to be used                          |
-	| -v	               | Increase verbosity                                           |
+	| -v	            | Increase verbosity                                           |
 	| -vv, -vvv         | Enable additional verbosity for even more debugging messages |
 
 3. Type **Yes** to add the host in your known hosts.
@@ -57,9 +58,9 @@ The following are procedures for logging in to the COARE HPC via the following O
 	
 	![Set port number](../solution/images/cmd_4.png)
 
-	NOTES:
+	**NOTES:**
 	- Logging in must be passwordless unless you have a passphrase during the generating of keys.
-	- If you want to use your key (generated using PuTTY) in OpenSSH, check this tutorial on converting PuTTY (.ppk) key to SSH Key.
+	- If you want to use your key (generated using PuTTY) in OpenSSH, check this tutorial on [converting PuTTY (.ppk) key to SSH Key](https://www.simplified.guide/putty/convert-ppk-to-ssh-key).
 	- You cannot use your PuTTY keys to OpenSSH and vice versa.
 	
 ## For Mac/Linux
@@ -82,4 +83,4 @@ The following are procedures for logging in to the COARE HPC via the following O
 	
 	![Set port number](../solution/images/mac-linux_3.png)
 	
- 	NOTE: Logging in must be passwordless unless you have a passphrase during the generating of keys.
+ 	**NOTE:** Logging in must be passwordless unless you have a passphrase during the generating of keys.
