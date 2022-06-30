@@ -43,6 +43,7 @@ The following are procedures for logging in to the COARE HPC via the following O
 	```
 	ssh <username>@saliksik.asti.dost.gov.ph
 	```
+	
 	Useful Options:
 	| Flag              | Description                                                  |
 	| ----------------- | ------------------------------------------------------------ |
@@ -68,6 +69,7 @@ The following are procedures for logging in to the COARE HPC via the following O
 	```
 	ssh <username>@saliksik.asti.dost.gov.ph
 	```
+	
 	Useful options:
 	| Flag              | Description                                                  |
 	| ----------------- | ------------------------------------------------------------ |
